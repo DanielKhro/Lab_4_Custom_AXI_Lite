@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="sdx.custom.platform.repository.locations" value="C:\Users\ajmix\Documents\ECE_520\Projects\mult_soc_dk\mult_soc_vitis\mult_plat\export\mult_plat;C:\Users\ajmix\Documents\ECE_520\Projects\mult_soc_dk\mult_soc_vitis\mult_app_v2\export\mult_app_v2;C:\Users\ajmix\Documents\ECE_520\Projects\mult_soc_dk\mult_soc_vitis\fifo_platform\export\fifo_platform"/>
+</section>

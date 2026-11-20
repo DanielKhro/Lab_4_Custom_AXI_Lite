@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="fifo_test" location="C:/Users/ajmix/Documents/ECE_520/Projects/mult_soc_dk/mult_soc_vitis/fifo_test" platform="C:/Users/ajmix/Documents/ECE_520/Projects/mult_soc_dk/mult_soc_vitis/fifo_platform/export/fifo_platform/fifo_platform.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="fifo_test_system" sysConfig="fifo_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="f320477bd51addf3be0e284dcd35b48c">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.408446928">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1307887121" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Nov  9 11:52:27 2026
+# Process ID: 8928
+# Current directory: C:/Users/ajmix/Documents/ECE_520/Projects/mult_soc_dk/mult_soc_dk.runs/mult_bd_dk_mult_16_bit_0_0_synth_1
+# Command line: vivado.exe -log mult_bd_dk_mult_16_bit_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mult_bd_dk_mult_16_bit_0_0.tcl
+# Log file: C:/Users/ajmix/Documents/ECE_520/Projects/mult_soc_dk/mult_soc_dk.runs/mult_bd_dk_mult_16_bit_0_0_synth_1/mult_bd_dk_mult_16_bit_0_0.vds
+# Journal file: C:/Users/ajmix/Documents/ECE_520/Projects/mult_soc_dk/mult_soc_dk.runs/mult_bd_dk_mult_16_bit_0_0_synth_1\vivado.jou
+# Running On: Khro, OS: Windows, CPU Frequency: 3264 MHz, CPU Physical cores: 12, Host memory: 16664 MB
+#-----------------------------------------------------------
+source mult_bd_dk_mult_16_bit_0_0.tcl -notrace
